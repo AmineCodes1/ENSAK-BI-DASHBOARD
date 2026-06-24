@@ -1,0 +1,55 @@
+id,nom,prenom,sexe,departement,grade,salaire
+1,Ziani,Adam,M,Informatique et Mathématiques,Professeur Habilité,12892.42
+2,Mansouri,Marouane,M,Informatique et Mathématiques,Professeur,
+3,Hilali,Nassim,M,Informatique et Mathématiques,Professeur,7587.94
+4,Boudouma,Khalid,M,Informatique et Mathématiques,Professeur Associé,10213.09
+5,Afilal,Saad,M,Informatique et Mathématiques,Maître de Conférences,11063.17
+6,Taqi,Hassan,M,Informatique et Mathématiques,Professeur,13471.09
+7,Idrissi,Younes,M,Informatique et Mathématiques,Maître de Conférences,7500
+8,El Fathi,Badr,M,Informatique et Mathématiques,Enseignant-Chercheur,10179.33
+9,Boukhari,Bilal,M,Informatique et Mathématiques,Professeur Associé,17873.56
+10,Tahiri,Jamal,M,Informatique et Mathématiques,Professeur Associé,11453.03
+11,Afilal,Adam,M,Informatique et Mathématiques,Professeur,10577.34
+12,El Yousfi,Reda,M,Informatique et Mathématiques,Enseignant-Chercheur,10836.1
+13,El Ouazzani,Omar,M,Informatique et Mathématiques,Professeur,13029.93
+14,Squalli,Siham,F,Informatique et Mathématiques,Maître de Conférences,9141.84
+15,Sabri,Asma,F,Informatique et Mathématiques,Professeur Associé,15170.14
+16,Boudouma,Rania,F,Informatique et Mathématiques,Maître de Conférences,15813.96
+17,Fennich,Meryem,F,Informatique et Mathématiques,Maître de Conférences,12784.09
+18,Hilali,Adnane,M,Informatique et Mathématiques,Professeur,12503.91
+19,El Hajji,Jamal,M,Informatique et Mathématiques,Professeur Associé,
+20,El Ansari,Bouchra,F,Informatique et Mathématiques,Professeur Associé,10923.37
+21,Mansouri,Walid,M,Informatique et Mathématiques,Professeur Habilité,7500
+22,El Ansari,Nassim,M,Informatique et Mathématiques,Professeur Habilité,14132.89
+23,Tahiri,Hicham,M,Informatique et Mathématiques,Enseignant-Chercheur,10661.55
+24,Alaoui,Sami,M,Informatique et Mathématiques,Enseignant-Chercheur,10907.25
+25,El Khatib,Amine,M,Informatique et Mathématiques,Professeur Habilité,17750.66
+26,El Ansari,Leila,F,Génie Électrique et Réseaux,Enseignant-Chercheur,14190.57
+27,Lemrini,Mostafa,M,Génie Électrique et Réseaux,Professeur Habilité,11424.91
+28,El Ansari,Ayoub,M,Génie Électrique et Réseaux,Professeur Habilité,18060.8
+29,Bouzidi,Amine,M,Génie Électrique et Réseaux,Enseignant-Chercheur,9839.87
+30,El Ouazzani,Rayan,M,Génie Électrique et Réseaux,Enseignant-Chercheur,12679.64
+31,El Ouazzani,Omar,M,Génie Électrique et Réseaux,Professeur,16925.81
+32,Squalli,Ismail,M,Génie Électrique et Réseaux,Enseignant-Chercheur,8671.39
+33,El Mernissi,Nour,F,Génie Électrique et Réseaux,Maître de Conférences,12149.35
+34,Chraibi,Adnane,M,Génie Industriel,Maître de Conférences,15392.16
+35,Regragui,Sara,F,Génie Industriel,Professeur,16495.5
+36,Berrada,Rachid,M,Génie Industriel,Enseignant-Chercheur,13799.94
+37,Benkirane,Adam,M,Génie Industriel,Professeur Habilité,12837.16
+38,El Amrani,Zineb,F,Génie Industriel,Enseignant-Chercheur,11157.41
+39,Nadori,Ghita,F,Génie Industriel,Maître de Conférences,9927.94
+40,Alaoui,Reda,M,Génie Industriel,Maître de Conférences,12187.45
+41,Moussaoui,Asma,F,Génie Industriel,Maître de Conférences,10400.15
+42,Berrada,Houda,F,Enseignements Généraux,Professeur Associé,7500
+43,El Amrani,Ayoub,M,Enseignements Généraux,Professeur Associé,15720.67
+44,El Amrani,Hind,F,Enseignements Généraux,Enseignant-Chercheur,13396.99
+45,Cherkaoui,Abdelkarim,M,Enseignements Généraux,Professeur Habilité,7500
+46,El Mesaoudi,Youssef,M,Enseignements Généraux,Professeur,16064.44
+47,Lahlou,Sami,M,Enseignements Généraux,Professeur Associé,13349.63
+48,Benkirane,Hicham,M,Enseignements Généraux,Professeur Associé,16566.04
+49,Benkirane,Fatima,F,Enseignements Généraux,Enseignant-Chercheur,21990.81
+50,Benomar,Younes,M,Enseignements Généraux,Professeur Associé,11902.98
+51,Moussaoui,Oumaima,F,Enseignements Généraux,Professeur Habilité,8524.21
+52,Alaoui,Jihane,F,Enseignements Généraux,Enseignant-Chercheur,13422.24
+53,Bensaid,Meryem,F,Enseignements Généraux,Professeur,15801.57
+54,Benhaddane,Nabil,M,Enseignements Généraux,Professeur Associé,8843.5

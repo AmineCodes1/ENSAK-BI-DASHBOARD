@@ -1,0 +1,21 @@
+id,nom,capacite,type
+1,Salle 01,300,Amphithéâtre
+2,Salle 02,250,Amphithéâtre
+3,Salle 03,200,Amphithéâtre
+4,Salle 04,60,Salle de Cours
+5,Salle 05,60,Salle de Cours
+6,Salle 06,45,Salle de Cours
+7,Salle 07,45,Salle de Cours
+8,Salle 08,40,Salle de Cours
+9,Salle 09,40,Salle de Cours
+10,Salle 10,30,Salle TP Informatique
+11,Salle 11,30,Salle TP Informatique
+12,Salle 12,25,Salle TP Informatique
+13,Salle 13,25,Salle TP Électronique
+14,Salle 14,20,Salle TP Industriel
+15,Salle 15,20,Salle TP Industriel
+16,Salle 16,80,Bibliothèque
+17,Salle 17,50,Salle de Séminaire
+18,Salle 18,35,Salle de Séminaire
+19,Salle 19,20,Labo Réseaux
+20,Salle 20,25,Labo IA & Big Data

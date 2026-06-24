@@ -1,0 +1,88 @@
+id,nom,filiere_id,semestre,credits
+1,Statistique Inférentielle,1,S1,4
+2,Complexité & Structures de Données,1,S1,5
+3,Réseaux Informatiques,1,S1,5
+4,Électronique Numérique,1,S1,5
+5,Systèmes d'Information & Bases de Données,1,S1,5
+6,Langues Étrangères,1,S1,3
+7,Digitalisation,1,S1,3
+8,Technologies Web,1,S2,5
+9,Modélisation & Simulation,1,S2,5
+10,Optimisation des Systèmes,1,S2,5
+11,Technologies de Communication,1,S2,5
+12,Programmation Objet,1,S2,4
+13,"Droit, Civisme & Citoyenneté",1,S2,3
+14,Advanced Python,1,S3,5
+15,Systèmes d'Exploitation,1,S3,5
+16,Multimédia & Traitement d'Image,1,S3,4
+17,Ingénierie des Bases de Données,1,S3,5
+18,Programmation Java,1,S3,5
+19,Introduction à l'IA,1,S3,3
+20,Fondamentaux des Big Data,1,S4,5
+21,IA Avancée,1,S4,5
+22,Gouvernance & Données,1,S4,5
+23,Analyse & Visualisation,1,S4,5
+24,Cybersécurité,1,S4,4
+25,Big Data Avancée,1,S5,5
+26,Vision par Ordinateur & Deep Learning,1,S5,5
+27,Business Intelligence,1,S5,5
+28,Cloud & Virtualisation,1,S5,4
+29,Sécurité des Données,1,S5,5
+30,Développement Full Stack,2,S4,5
+31,Développement Mobile,2,S4,5
+32,UX/UI Design,2,S4,4
+33,Admin & Prog. Système,2,S4,5
+34,Datawarehouse & Datamining,2,S4,5
+35,Génie Logiciel & Architecture,2,S5,5
+36,Développement JEE,2,S5,5
+37,Design Patterns & Tests,2,S5,5
+38,BPM & CRM,2,S5,4
+39,DevOps,2,S5,5
+40,Maths pour Ingénieur 1,3,S5,5
+41,"Ondes, Propagation & Antennes",3,S5,5
+42,Électronique Analogique,3,S5,5
+43,Circuits Électriques et Magnétiques,3,S5,5
+44,Capteurs et Actionneurs,3,S6,5
+45,Machines CC & Schémas Électrotechniques,3,S6,5
+46,Électronique Numérique Avancée,3,S6,5
+47,Électronique de Puissance 1,3,S6,5
+48,Asservissement Continu et Échantillonné,3,S6,5
+49,Informatique Industrielle,3,S7,5
+50,Machines Synchrones et Asynchrones,3,S7,5
+51,Transmission Numérique & Réseaux,3,S7,5
+52,Électronique de Puissance 2,3,S7,5
+53,Régulation Industrielle et Intelligente,3,S7,5
+54,Production d'Énergie Renouvelable,3,S8,5
+55,Informatique & Intelligence Embarquées,3,S8,5
+56,Réseaux Électriques,3,S8,5
+57,Systèmes Embarqués et Temps Réel,3,S8,5
+58,Transport Énergie et Stabilité Réseaux,3,S9,5
+59,Robotique Industrielle et Collaborative,3,S9,5
+60,Communication Industrielle et Supervision,3,S9,5
+61,Apprentissage Artificiel et Vision,3,S9,5
+62,Mobilité Verte,3,S9,5
+63,Internet des Objets et Systèmes Cyberphysiques,3,S9,5
+64,Optimisation et Systèmes Industriels,4,S5,5
+65,Développement WEB,4,S6,5
+66,Modélisation et Simulation Numérique,4,S6,5
+67,POO,4,S6,4
+68,Management de la Qualité,4,S7,5
+69,CFAO et Procédés Industriels,4,S7,5
+70,Gestion de la Production,4,S7,5
+71,SCM,4,S7,5
+72,Introduction à l'IA,4,S7,3
+73,IA for Industrial Business Process Management,4,S8,5
+74,Management de la Maintenance et SdF,4,S8,5
+75,Systèmes d'Informations Intégrés (ERP),4,S8,5
+76,Ordonnancement,4,S8,5
+77,Automatisme et Robotique,4,S8,4
+78,"Performance, Durabilité et Résilience",4,S9,5
+79,Industrial Data Driving et Prise de Décision,4,S9,5
+80,Analyse de Données Intelligente,4,S9,5
+81,Cloud et Cybersécurité,4,S9,4
+82,Mathématiques Appliquées,5,S1,5
+83,Physique Générale,5,S1,5
+84,Informatique & Algo,5,S1,5
+85,Communication & Expression,5,S2,3
+86,Thermodynamique,5,S2,4
+87,Mécanique Rationnelle,5,S2,4
