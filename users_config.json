@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "hashed_password": "$2b$12$Pt9UWdTu..QEGWJYCi9S9utwGZnypGAXFb0QxP129rYWwwO6Hs.v2",
+    "role": "administrateur",
+    "full_name": "Administrateur Systeme",
+    "student_id": null,
+    "teacher_id": null
+  },
+  "direction": {
+    "hashed_password": "$2b$12$CZbW/1lhQW5jiEpvQtuJD.NK.M2m6hRdDd5s9QqUG0yqNmGx6iiIG",
+    "role": "direction",
+    "full_name": "Directeur ENSA Kenitra",
+    "student_id": null,
+    "teacher_id": null
+  }
+}
