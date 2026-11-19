@@ -21,7 +21,7 @@
                          └────────────┬────────────┘
                                       │
               ┌───────────────────────▼──────────────────────┐
-              │         PostgreSQL (Railway)                   │
+              │         PostgreSQL (Local)                   │
               │  OLTP Tables  →  Data Warehouse (Étoile)       │
               │  Vues OLAP  ·  Audit Logs  ·  RBAC            │
               └───────────────┬──────────────────────────────┘
