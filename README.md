@@ -27,7 +27,7 @@
               └───────────────┬──────────────────────────────┘
                               │
               ┌───────────────▼──────────────────────────────┐
-              │         FastAPI (Railway)                      │
+              │         FastAPI (Local)                      │
               │  /auth/token  /students  /kpi/*               │
               │  JWT Auth · RBAC (admin/direction/professeur) │
               └───────────────┬──────────────────────────────┘
